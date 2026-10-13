@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 
-const API_BASE_URL = "https://smart-dancers-beg.loca.lt/"; 
+const API_BASE_URL = "https://forty-games-wait.loca.lt/"; 
 
 function App() {
   const [filePath, setFilePath] = useState("C:\\work\\Programming in Python\\practic\\lab2\\data\\students.csv");
